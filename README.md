@@ -16,14 +16,14 @@ Francesco Sabatino, *“A Unified Approach to Quadcopter Control”*, KTH Master
 
 ```
 
-matlab\_quadcopter/
+Matlab-Quadcopter-Dynamics-Simulator/
 ├── LICENSE                        # MIT License
 ├── README.md                      # Project documentation
 ├── pictures/                      # Visual explanation
-│   ├── control\_input.jpg          # Force/torque illustration
+│   ├── control_input.jpg          # Force/torque illustration
 │   ├── figure1.jpg                # Example position output
 │   ├── figure2.jpg                # Example orientation output
-│   └── quad\_equation.jpg          # Dynamics equations
+│   └── quad_equation.jpg          # Dynamics equations
 ├── project/                       # MATLAB source code
 │   ├── quadvar.m                  # System parameters and initial conditions
 │   ├── quadmodel.m                # State update equations (Euler integration)
