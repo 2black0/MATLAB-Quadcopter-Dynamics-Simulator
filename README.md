@@ -61,7 +61,7 @@ These are derived from rotor speeds and used in the Newton–Euler equations to 
 
 1. Clone or download the repo:
    ```bash
-   git clone https://github.com/yourname/matlab_quadcopter.git
+   git clone https://github.com/2black0/MATLAB-Quadcopter-Dynamics-Simulator.git
    ```
 
 2. Open MATLAB or Octave and set the working directory to `/project`
