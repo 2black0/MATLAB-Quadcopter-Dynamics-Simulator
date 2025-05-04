@@ -1,7 +1,6 @@
 # 🚁 MATLAB Quadcopter Dynamics Simulator
 
-A **minimalist quadcopter model and hover simulation** built in **MATLAB/Octave**, based on Francesco Sabatino’s master thesis at KTH.  
-This project demonstrates the basic 6-DOF rigid-body dynamics of a quadrotor in free flight, focusing on attitude and position evolution over time.
+A **minimalist quadcopter model and hover simulation** built in **MATLAB/Octave**, based on Francesco Sabatino’s master thesis at KTH. This project demonstrates the basic 6-DOF rigid-body dynamics of a quadrotor in free flight, focusing on attitude and position evolution over time.
 
 ---
 
